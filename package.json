@@ -1,0 +1,25 @@
+{
+  "name": "Clase_20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barmor96/Clase_20.git"
+  },
+  "keywords": [],
+  "author": "Diego_Barajas <diego.f.barmor@hotmail.com>",
+  "license": "Yo digo que sí jala",
+  "bugs": {
+    "url": "https://github.com/Barmor96/Clase_20/issues"
+  },
+  "homepage": "https://github.com/Barmor96/Clase_20#readme"
+}

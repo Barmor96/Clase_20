@@ -1,0 +1,99 @@
+body {
+    background-color: rgb(100, 100, 100);
+    font-family: Helvetica, Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+header{
+    float: left;
+    margin-left:  5%;
+    margin-right: 5%;
+    width: 100%;
+    padding-top: 1%;
+}
+
+.headerLogo{
+    float: left;
+    width: 30%;
+    font-size: 14px;
+    margin-top: 1%;
+    color: rgb(229, 9, 20);
+}
+
+.headerOptions{
+    float: left;
+    width: 70%
+}
+
+.headerOptions ul {
+    width: 100%
+}
+
+.headerOptions ul li{
+    width: 17%;
+    float: right;
+    margin-right: 7%;
+    list-style: none;
+}
+
+#container {
+    float: left;
+    width: 94%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.highlightContainer {
+    font-size: 51px;
+
+}
+
+.mainTitle{
+    font-size: 51px;
+    text-transform: uppercase;
+    margin-top: 4%;
+    
+    }
+    
+    .secondaryTitle{
+    
+        font-weight: bold;
+        font-size: 19px;
+    
+    }
+    
+    .optionButtons{
+    
+        margin-top: 3%;
+    
+    
+    
+    }
+    
+    .playButton{
+    
+        font-weight: bold;
+        background-color: #24181823;
+        color:  white;
+        height: 34px;
+        width: 60%;
+        text-transform: uppercase;
+        border-color: #db0000;
+        font-size: 13px;
+    
+    }
+    
+    .listButton{
+    
+        font-weight: bold;
+        background-color: #564D4D;
+        color: white;
+        height: 34px;
+        font-size: 13px;
+        width: 100px;
+        border-color: #564D4D;
+        text-transform: uppercase;
+    
+    
+    
+    }
